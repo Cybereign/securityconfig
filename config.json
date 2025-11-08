@@ -24,17 +24,6 @@
   ],
   "settings": {
     "autoLogout": 60,
-    "maxLoginAttempts": 5,
-    "passwordMinLength": 6,
-    "sessionTimeout": 30,
-    "allowExport": true,
-    "allowReset": true
-  },
-  "categories": {
-    "contactinfo": "联系方式",
-    "workscope": "责任分工", 
-    "phasereview": "阶段评审",
-    "developmentplan": "开发计划",
-    "other": "其他"
+    "maxLoginAttempts": 5
   }
 }
