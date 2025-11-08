@@ -5,19 +5,19 @@
   "users": [
     {
       "username": "admin",
-      "passwordHash": "c8467796221c234f7281fec9d3ce012653533a97ebc43fd3365f1d7c1e0dedf5",
+      "passwordHash": "b107fce20b89ab22f4eb72843df4acc2628c88d38c54f56bdf3767f53238274f",
       "name": "管理员",
       "permissions": ["read", "write", "delete", "export", "config"]
     },
     {
       "username": "editor",
-      "passwordHash": "c8467796221c234f7281fec9d3ce012653533a97ebc43fd3365f1d7c1e0dedf5",
+      "passwordHash": "b107fce20b89ab22f4eb72843df4acc2628c88d38c54f56bdf3767f53238274f",
       "name": "编辑员",
       "permissions": ["read", "write"]
     },
     {
       "username": "viewer",
-      "passwordHash": "c8467796221c234f7281fec9d3ce012653533a97ebc43fd3365f1d7c1e0dedf5",
+      "passwordHash": "b107fce20b89ab22f4eb72843df4acc2628c88d38c54f56bdf3767f53238274f",
       "name": "查看员",
       "permissions": ["read"]
     }
